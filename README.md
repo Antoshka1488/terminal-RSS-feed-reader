@@ -6,9 +6,6 @@ Find the project requirements here: [RSS feed reader in terminal](https://www.co
 ## Tech/framework used
 Built with rssParser
 
-## Screenshots and demo
-Screenshots of your app and/or a link to your live demo
-
 ## Installation
 #### Step 1:
 Install the dependencies
